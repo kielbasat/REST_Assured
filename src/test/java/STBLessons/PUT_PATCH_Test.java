@@ -1,3 +1,5 @@
+package STBLessons;
+
 import com.github.javafaker.Faker;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;

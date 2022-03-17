@@ -1,3 +1,5 @@
+package STBLessons;
+
 import io.restassured.response.Response;
 import org.apache.http.HttpStatus;
 import org.junit.jupiter.api.Test;
